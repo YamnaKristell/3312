@@ -1,0 +1,32 @@
+banner_index{
+    height: auto;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.header{
+    text-align: center;
+    font-size: 25px;
+}
+
+
+.nav{
+    width: 100px%;
+    margin: auto;
+    
+    justify-content: space-around;
+}
+
+.html{
+    
+    font-size: 15px; }
+
+
+.TITULO{
+    font-size: 12px;
+}
+
+.td{
+    font-size: 12px;
+}
+
